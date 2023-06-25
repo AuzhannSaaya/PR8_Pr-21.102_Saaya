@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.pr8_pr_21102_yadikcin_sergey'
+    namespace 'com.example.pr8_pr_21102_saaya'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.pr8_pr_21102_yadikcin_sergey"
+        applicationId "com.example.pr8_pr_21102_saaya"
         minSdk 30
         targetSdk 33
         versionCode 1
