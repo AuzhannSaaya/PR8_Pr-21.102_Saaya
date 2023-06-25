@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "PR8_Pr-21.102-Yadikcin_Sergey+"
+rootProject.name = "PR8_Pr-21.102-Saaya+"
 include ':app'
