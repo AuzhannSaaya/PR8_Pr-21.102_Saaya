@@ -1,4 +1,4 @@
-package com.example.pr8_pr_21102_yadikcin_sergey;
+package com.example.pr8_pr_21102_saaya;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.pr8_pr_21102_yadikcin_sergey", appContext.getPackageName());
+        assertEquals("com.example.pr8_pr_21102_saaya", appContext.getPackageName());
     }
 }
