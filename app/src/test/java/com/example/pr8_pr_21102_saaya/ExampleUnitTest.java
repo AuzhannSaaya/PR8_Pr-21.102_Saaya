@@ -1,4 +1,4 @@
-package com.example.pr8_pr_21102_yadikcin_sergey;
+package com.example.pr8_pr_21102_saaya;
 
 import org.junit.Test;
 
